@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="nueva_nota">Nueva nota</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="nota_guardada">Nota guardada.</string>
+    <string name="sin_notas">No has creado una nota</string>
+    <string name="titulo">Título</string>
+    <string name="escribe_titulo">Escribe un título para guardar</string>
+    <string name="adjuntar_archivo">Adjuntar archivo</string>
+    <string name="regresar">Regresar</string>
+    <string name="hoja_de_nota">Hoja de la libreta</string>
+    <string name="imagen_adjunta">Imagen adjunta (pellizca para hacer zoom)</string>
+    <string name="quitar_imagen">Quitar imagen</string>
+    <string name="marcar_completada">Marcar nota como completada</string>
+</resources>
